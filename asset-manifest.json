@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/codd1e/tic_tac/static/css/main.7106f800.css",
-    "main.js": "/codd1e/tic_tac/static/js/main.c34435dd.js",
-    "index.html": "/codd1e/tic_tac/index.html",
-    "main.7106f800.css.map": "/codd1e/tic_tac/static/css/main.7106f800.css.map",
-    "main.c34435dd.js.map": "/codd1e/tic_tac/static/js/main.c34435dd.js.map"
+    "main.css": "/tic_tac/static/css/main.7106f800.css",
+    "main.js": "/tic_tac/static/js/main.c34435dd.js",
+    "index.html": "/tic_tac/index.html",
+    "main.7106f800.css.map": "/tic_tac/static/css/main.7106f800.css.map",
+    "main.c34435dd.js.map": "/tic_tac/static/js/main.c34435dd.js.map"
   },
   "entrypoints": [
     "static/css/main.7106f800.css",
